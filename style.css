@@ -58,13 +58,13 @@ a {
   justify-content: right;
 }
 .banner{
-  background-color: #758283;
+  /* background-color: #758283; */
   border-radius: 5px;
 }
-.logo1{
-  color: black;
-}
 .logo2{
+  color: white;
+}
+.logo1{
   color: #E21717;
 }
 
@@ -74,11 +74,11 @@ a {
 
 .left:hover{
 
-  .logo2{
-    color: black;
+  .logo1{
+    color: white;
   }
 
-  .logo1{
+  .logo2{
     color: #E21717;
   }
   
